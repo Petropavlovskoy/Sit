@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Petropavlovskoy/Summary.git/static/css/main.1672d169.chunk.css",
-    "main.js": "/Petropavlovskoy/Summary.git/static/js/main.8a188595.chunk.js",
-    "main.js.map": "/Petropavlovskoy/Summary.git/static/js/main.8a188595.chunk.js.map",
-    "runtime-main.js": "/Petropavlovskoy/Summary.git/static/js/runtime-main.3db338c9.js",
-    "runtime-main.js.map": "/Petropavlovskoy/Summary.git/static/js/runtime-main.3db338c9.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/Petropavlovskoy/Summary.git/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3cde8ee8.chunk.js": "/Petropavlovskoy/Summary.git/static/js/2.3cde8ee8.chunk.js",
-    "static/js/2.3cde8ee8.chunk.js.map": "/Petropavlovskoy/Summary.git/static/js/2.3cde8ee8.chunk.js.map",
-    "static/js/3.01148d7c.chunk.js": "/Petropavlovskoy/Summary.git/static/js/3.01148d7c.chunk.js",
-    "static/js/3.01148d7c.chunk.js.map": "/Petropavlovskoy/Summary.git/static/js/3.01148d7c.chunk.js.map",
-    "index.html": "/Petropavlovskoy/Summary.git/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/Petropavlovskoy/Summary.git/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.1672d169.chunk.css.map": "/Petropavlovskoy/Summary.git/static/css/main.1672d169.chunk.css.map",
-    "static/js/2.3cde8ee8.chunk.js.LICENSE.txt": "/Petropavlovskoy/Summary.git/static/js/2.3cde8ee8.chunk.js.LICENSE.txt",
-    "static/media/foto1.83a529b3.jpg": "/Petropavlovskoy/Summary.git/static/media/foto1.83a529b3.jpg",
-    "static/media/web.07687934.jpg": "/Petropavlovskoy/Summary.git/static/media/web.07687934.jpg",
-    "static/media/web1.62c37853.jpg": "/Petropavlovskoy/Summary.git/static/media/web1.62c37853.jpg",
-    "static/media/web3.699d0c86.jpg": "/Petropavlovskoy/Summary.git/static/media/web3.699d0c86.jpg"
+    "main.css": "/Summary.git/static/css/main.1672d169.chunk.css",
+    "main.js": "/Summary.git/static/js/main.15b15878.chunk.js",
+    "main.js.map": "/Summary.git/static/js/main.15b15878.chunk.js.map",
+    "runtime-main.js": "/Summary.git/static/js/runtime-main.7e3aabfa.js",
+    "runtime-main.js.map": "/Summary.git/static/js/runtime-main.7e3aabfa.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Summary.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cde8ee8.chunk.js": "/Summary.git/static/js/2.3cde8ee8.chunk.js",
+    "static/js/2.3cde8ee8.chunk.js.map": "/Summary.git/static/js/2.3cde8ee8.chunk.js.map",
+    "static/js/3.01148d7c.chunk.js": "/Summary.git/static/js/3.01148d7c.chunk.js",
+    "static/js/3.01148d7c.chunk.js.map": "/Summary.git/static/js/3.01148d7c.chunk.js.map",
+    "index.html": "/Summary.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Summary.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1672d169.chunk.css.map": "/Summary.git/static/css/main.1672d169.chunk.css.map",
+    "static/js/2.3cde8ee8.chunk.js.LICENSE.txt": "/Summary.git/static/js/2.3cde8ee8.chunk.js.LICENSE.txt",
+    "static/media/foto1.83a529b3.jpg": "/Summary.git/static/media/foto1.83a529b3.jpg",
+    "static/media/web.07687934.jpg": "/Summary.git/static/media/web.07687934.jpg",
+    "static/media/web1.62c37853.jpg": "/Summary.git/static/media/web1.62c37853.jpg",
+    "static/media/web3.699d0c86.jpg": "/Summary.git/static/media/web3.699d0c86.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3db338c9.js",
+    "static/js/runtime-main.7e3aabfa.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.3cde8ee8.chunk.js",
     "static/css/main.1672d169.chunk.css",
-    "static/js/main.8a188595.chunk.js"
+    "static/js/main.15b15878.chunk.js"
   ]
 }
